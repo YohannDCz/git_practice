@@ -1,0 +1,4 @@
+void function() {
+    new object = <String>{"HELLO", "WORLD", "!"};
+    print(object);
+}
