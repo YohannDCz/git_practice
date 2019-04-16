@@ -62,5 +62,4 @@ def comparator(pound):
     elif premiumShippingg > groundShippingg and droneShippingg > groundShippingg:
         return "You should use ground shipping. It will cost $" +str(groundShipping(pound))+ "."
 
-print(groundShipping(6))
 print(comparator(5))
